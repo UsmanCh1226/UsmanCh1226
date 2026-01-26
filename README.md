@@ -11,6 +11,7 @@ I'm a Data Science student specializing in the application of quantitative metho
 ![](https://github-readme-stats.vercel.app/api?username=UsmanCh1226&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=UsmanCh1226&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanCh1226&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=UsmanCh1226)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=UsmanCh1226&theme=radical&no-frame=true&no-bg=true&margin-w=4)
