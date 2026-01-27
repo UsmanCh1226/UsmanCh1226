@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Data Science student specializing in applying quantitative methods to drive and measure behavioral outcomes. My focus is on building intelligent, adaptive systems that move beyond simple prediction to shape the user experience actively. I manage the full data lifecycle, from developing robust models for personalized optimization to designing scalable pipelines that transform complex analytical findings into clean, consumable structured JSON for front-end consumption. I’m seeking internship roles in innovative product development.
+I'm a Data Science student specializing in applying quantitative methods to drive and measure behavioral outcomes. My focus is on building intelligent, adaptive systems that move beyond simple prediction to shape the user experience actively. I manage the full data lifecycle, from developing robust models for personalized optimization to designing scalable pipelines that transform complex analytical findings into clean, consumable structured JSON for front-end consumption. I’m seeking internship roles in innovative product development and deployment.
 
 
 ## 🌐 Socials:
