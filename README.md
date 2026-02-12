@@ -32,7 +32,7 @@ I'm a Data Science student at the **University of Michigan** 〽️ specializing
       <a href="https://github.com/UsmanCh1226"><b>View Project →</b></a>
     </td>
     <td width="33%" valign="top">
-      <h3>💻 EECS 280 Systems</h3>
+      <h3>💻 EECS 280 Diagnostic Exam</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
         <img src="https://img.shields.io/badge/Algorithm-Lightgrey?style=flat-square" />
