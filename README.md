@@ -8,12 +8,41 @@ I'm a Data Science student at the **University of Michigan** 〽️ specializing
 ---
 
 ## 🚀 Featured Projects
-| 🧠 Reinforcement Learning | 📈 Causal Inference Engine | ⚡ Low-Latency ML Pipeline |
-| :---: | :---: | :---: |
-| ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white) |
-| **Project Alpha** | **Project Beta** | **Project Gamma** |
-| High-performance agent simulations built with **C++** for maximum throughput. | Behavioral analysis using **Pandas**, **Seaborn**, and **R** for causal discovery. | Scalable data pipeline delivering real-time insights to a **React** front-end. |
-| [**View Repo**](https://github.com/UsmanCh1226) | [**View Repo**](https://github.com/UsmanCh1226) | [**View Repo**](https://github.com/UsmanCh1226) |
+
+<table border="0">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧠 MoodBank</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      </p>
+      <p>Full-stack financial wellness app featuring a <b>Heuristic Debt Risk Model</b> and an <b>Emotional ROI (eROI)</b> mechanism to track anxiety-driven spending.</p>
+      <p><i>Key: Gemini AI integration for personalized sentiment-based financial guidance.</i></p>
+      <a href="https://github.com/UsmanCh1226"><b>View Project →</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🩺 Brain MRI Classifier</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
+      <p>High-performance <b>CNN</b> for binary classification of MRI scans. Managed end-to-end pipeline from data augmentation to production deployment.</p>
+      <p><i>Key: Achieved high-fidelity clinical validation using detailed confusion matrix analysis.</i></p>
+      <a href="https://github.com/UsmanCh1226"><b>View Project →</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💻 EECS 280 Systems</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Algorithm-Lightgrey?style=flat-square" />
+      </p>
+      <p>Rigorous implementation of <b>Machine Learning from scratch</b> and data structures using C++ at the University of Michigan.</p>
+      <p><i>Key: Focused on memory management, recursion, and optimized algorithmic performance.</i></p>
+      <a href="https://github.com/UsmanCh1226"><b>View Project →</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -31,7 +60,7 @@ I'm a Data Science student at the **University of Michigan** 〽️ specializing
 * **Machine Learning Researcher** | *Theoretical Rigor*
     * Investigating stochastic optimization and interpretability in scalable neural networks.
 * **Data Analyst @ InternBull** | *Fintech Optimization*
-    * Bridging raw financial signals and product delivery via optimized data structures for a fast-paced startup.
+    * Bridging raw financial signals and product delivery via optimized data structures.
 
 ---
 
